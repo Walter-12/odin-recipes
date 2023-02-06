@@ -1,2 +1,1 @@
-# odin-recipes
-A basic html page
+In this project by TOP i will be creating recipes. I will be creating a simple HTML webpage of recipe,it will consist a main index which will have links to a few recipes.This is to test my knowledge in Elements and tags, lists ,links and images.
